@@ -46,3 +46,11 @@
 
  Area of Die in microns = 660.685 * 671.405 = 443587.212425 square microns
 
+ 3) Placement
+
+    Excecuting run_placement command
+
+  ![image](https://github.com/user-attachments/assets/a8a93818-f494-4386-aa0f-c20635a0f261)
+
+  ![image](https://github.com/user-attachments/assets/e8a22cf6-2188-46fb-a0e5-586a98734fc3)
+
